@@ -1,0 +1,20 @@
+{
+  "name": "paintml",
+  "version": "1.0.0",
+  "description": "Painting app in html, very simple, This is just the server for the paint app.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MXP2095onetechguy/PaintML.git"
+  },
+  "author": "MXPSQL",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MXP2095onetechguy/PaintML/issues"
+  },
+  "homepage": "https://github.com/MXP2095onetechguy/PaintML#readme"
+}
