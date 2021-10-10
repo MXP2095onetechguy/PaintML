@@ -8,6 +8,6 @@
 <hr>
 
 to run the server for full functionality, you need nodejs then run these commands.
-`bash
+`
 npm run serve
 `
